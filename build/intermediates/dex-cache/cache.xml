@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/deny/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_37838eccbf8aa93da7f0b70646d7023b70fbde63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_51974e3653a93040d6e4342b7c874a0264bf0eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_f7933cfb59d69f882f9385387991e8ba27aa2029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92ac943afe56d07f9d3d3688736bb05209696ef1">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f8a34aa6ecef9925038d23a9179f90d28658e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_049435d335d8a4a0fc00d2b1f6be4400a5f0691b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_1269d83e9f05d6a9eb6401f98d6092ae99d68fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_ce06def0dcfaf2bb85b039eb981c7194200b079a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_d73cfab431021edbde0012a51798a00e405fabcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_6781f7c462b077bde650c7233e93f908b155887f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ace8c5dc67fc9cc7e706874f3ab2c5c56a5eeebb">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91d4715ecb4a0031d311963ce21dc29fb4394ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_212991718e93d1b5c0dc3551e14a0bd57ffe4c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/deny/StudioProjects/E-SIM_Detector_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_207bcc911e2681b48e11bf97d899f70e797fbb6f/classes.dex" />
+    </item>
+
+</items>

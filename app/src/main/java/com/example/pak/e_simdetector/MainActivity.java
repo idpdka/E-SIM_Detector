@@ -44,35 +44,26 @@ public class MainActivity extends AppCompatActivity {
         submitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Toast.makeText(MainActivity.this, "Tilang report submitted!", Toast.LENGTH_LONG).show();
                 finish();
             }
         });
 
         if (NfcAdapter.ACTION_TAG_DISCOVERED.equals(action)) {
-            Toast.makeText(this,
-                    "onResume() - ACTION_TAG_DISCOVERED",
-                    Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "E-SIM Detected!", Toast.LENGTH_SHORT).show();
 
             Tag tag = intent.getParcelableExtra(NfcAdapter.EXTRA_TAG);
             if(tag == null){
                 textViewInfo.setText("tag == null");
             }else{
-                String tagInfo = tag.toString() + "\n";
+                String tagInfo = "";
 
-                tagInfo += "\nTag Id: \n";
                 byte[] tagId = tag.getId();
-                tagInfo += "length = " + tagId.length +"\n";
+                tagInfo += "E-SIM ID : ";
                 for(int i=0; i<tagId.length; i++){
                     tagInfo += Integer.toHexString(tagId[i] & 0xFF) + " ";
                 }
-                tagInfo += "\n";
 
-                String[] techList = tag.getTechList();
-                tagInfo += "\nTech List\n";
-                tagInfo += "length = " + techList.length +"\n";
-                for(int i=0; i<techList.length; i++){
-                    tagInfo += techList[i] + "\n ";
-                }
 
                 textViewInfo.setText(tagInfo);
             }
