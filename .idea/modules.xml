@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/E-SIMDetector.iml" filepath="$PROJECT_DIR$/E-SIMDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-SIM_Detector_Alpha.iml" filepath="$PROJECT_DIR$/E-SIM_Detector_Alpha.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
