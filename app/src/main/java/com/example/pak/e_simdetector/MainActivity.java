@@ -1,9 +1,12 @@
 package com.example.pak.e_simdetector;
 
+import android.content.Context;
 import android.nfc.NfcAdapter;
 import android.nfc.Tag;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 import android.widget.TextView;
 import android.content.Intent;
@@ -36,6 +39,14 @@ public class MainActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
         String action = intent.getAction();
+
+        Button submitButton = (Button) findViewById(R.id.button_submit);
+        submitButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
 
         if (NfcAdapter.ACTION_TAG_DISCOVERED.equals(action)) {
             Toast.makeText(this,

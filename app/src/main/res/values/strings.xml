@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">E-SIM Detector</string>
+    <string name="app_name">Tilang Elektronik</string>
+
+    <string name="tilang_prompt">Pilih pelanggaran yang dilakukan</string>
+
+    <string-array name="tilang_arrays">
+        <item>Lampu tidak dinyalakan</item>
+        <item>Tidak membawa SIM</item>
+        <item>Tidak membawa STNK</item>
+        <item>Tidak menggunakan helm</item>
+        <item>Tidak menggunakan sabuk pengaman</item>
+        <item>Melanggar rambu jalan</item>
+        <item>Melanggar marka jalan</item>
+        <item>Kendaraan tidak sesuai standar</item>
+    </string-array>
+
 </resources>
